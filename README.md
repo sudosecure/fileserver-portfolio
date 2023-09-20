@@ -1,4 +1,4 @@
-<h1>cockpit project- file server</h1>
+<h1>Cockpit Project- File Server</h1>
 
  ### [YouTube Demonstration](https://youtube.com)
 
