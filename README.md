@@ -10,7 +10,7 @@ Project consits of easy to use, intergrated, glanceable, and open web-based inte
 <h2>Instillations</h2>
 
 - <b>Proxmox</b> 
-- <b>cockpit project os</b>
+- <b>cockpit project </b>
 
 <h2>Program:</h2>
 
